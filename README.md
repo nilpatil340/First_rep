@@ -1,3 +1,7 @@
 # First_rep
 my first repo
-#hello frnds chai pilo
+
+im a competative and pro coder
+=======
+Im a competative coder
+
